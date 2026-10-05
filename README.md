@@ -5,7 +5,7 @@ customer churn is a major issue in telecom, banking, and SaaS.This project uses 
 # Objectives 
 - Explore customer data to find key pattern in churn behavior
 - Provide actionable insights for customer retention
-# Thecnologie used 
+# Technologies used 
 pandas, numpy, matplotlib, seaborn, jupyter notbook
 # Dataset
 - Customer demographics(age, gender, etc)
